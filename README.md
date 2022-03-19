@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielMendes16
+- 👋 Hi, I’m @Gabriel Mendes Roque
 - 👀 I’m interested in In a vacancy in the job market.
 - 🌱 I'm studying systems analysis and development, and also studying through the platform: Digital innovation one, within it I'm looking for knowledge in: java, javascript, C#, HTML and Python
 - 💞️ I try to collaborate in everything I can add ...
