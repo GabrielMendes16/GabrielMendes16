@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Mendes Roque
-- 👀 I’m interested in In a vacancy in the job market.
-- 🌱 I'm studying systems analysis and development, and also studying through the platform: Digital innovation one, within it I'm looking for knowledge in: java, javascript, C#, HTML and Python
-- 💞️ I try to collaborate in everything I can add ...
+- 👀 Conquer a space in the job market, where I can demonstrate my skills in Information Technology with an emphasis on systems development.
+- 🌱 I'm studying systems analysis and development, and also studying through the platform: Digital innovation one, within it I'm looking for knowledge in: java, javascript, C#, HTML and Python.
+- 💞️ I try to collaborate in everything I can add. I love working in a team and I love challenges.
 - 📫 How to reach me through my linkedin.com/in/gabriel-mendes-622396124
 
 
