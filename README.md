@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Gabriel Mendes Roque
-- 👀 I try to conquer a space in the job market, where I can demonstrate my skills in Information Technology with emphasis on systems development.
-- 🌱 I'm studying systems analysis and development, and also studying through the platform: Digital innovation one, within it I'm looking for knowledge in: java, javascript, C#, HTML and Python.
-- 💞️ I try to collaborate in everything I can add. I love working in a team and I love challenges.
-- 📫 How to reach me through my linkedin.com/in/gabriel-mendes-622396124
+- 👋 Olá! Meu nome é Gabriel Mendes. 
+-  🤩 Sou entusiasta da área de tecnologia e desenvolvimento. 
+-  👥 🧠 Gosto de trabalhar em equipe e adoro desafios.
+-  👨‍🎓👨‍💻 Atualmente estou me graduando em análise e desenvolvimento de sistema(graduação em fevereiro 2024).
+-  🧑‍💻✅🤝 Tenho como objetivo me aprofundar cada vez mais meus estudos com a intenção de conseguir meu espaço no mercado de trabalho.
 
+📍Informação Adicional📍
+-  📚☀📚  Durante o decorrer do dia sigo procurando conhecimento, realizando cursos de aprendizado nas demais plataformas de ensino como : Udemy, Rocketseat, DIO, IFRS, e outras. Absorvendo conhecimento sobre tais linguagens como: Java, JavaScript, SQL, HTML, CSS. 
+
+📫 Como chegar até mim 📫
+- ☎ (81) 98504-9843☎ 
+- 📨 gabriel1902008@hotmail.com 📨
+- LinkedIn : https://www.linkedin.com/in/gabriel-mendes-roque-622396124/
 
 <!---
 GabrielMendes16/GabrielMendes16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
