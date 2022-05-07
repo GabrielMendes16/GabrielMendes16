@@ -1,5 +1,5 @@
 - 👋 Olá! Meu nome é Gabriel Mendes. 
--  🤩 Sou entusiasta da área de tecnologia e desenvolvimento. 
+-  🤩 Sou estudante da área de tecnologia e desenvolvimento. 
 -  👥 🧠 Gosto de trabalhar em equipe e adoro desafios.
 -  👨‍🎓👨‍💻 Atualmente estou me graduando em análise e desenvolvimento de sistema(graduação em fevereiro 2024).
 -  🧑‍💻✅🤝 Tenho como objetivo me aprofundar cada vez mais meus estudos com a intenção de conseguir meu espaço no mercado de trabalho.
