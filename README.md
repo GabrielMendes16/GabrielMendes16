@@ -8,7 +8,7 @@
 -  📚☀📚  Durante o decorrer do dia sigo procurando conhecimento, realizando cursos de aprendizado nas demais plataformas de ensino como : Udemy, Rocketseat, DIO, IFRS, e outras. Absorvendo conhecimento sobre tais linguagens como: Java, JavaScript, SQL, HTML, CSS. 
 
 📫 Como chegar até mim 📫
-- ☎ (81) 982506246☎ 
+- ☎ (81) 98250-6246☎ 
 - 📨 gabriel1902008@hotmail.com 📨
 - LinkedIn : https://www.linkedin.com/in/gabriel-mendes-roque-622396124/
 
