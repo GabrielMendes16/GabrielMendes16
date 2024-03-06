@@ -1,16 +1,21 @@
-- 👋 Olá! Meu nome é Gabriel Mendes. 
--  🤩 Sou estudante da área de tecnologia e desenvolvimento. 
--  👥 🧠 Gosto de trabalhar em equipe e adoro desafios.
--  👨‍🎓👨‍💻 Atualmente estou me graduando em análise e desenvolvimento de sistema(graduação em fevereiro 2024).
--  🧑‍💻✅🤝 Tenho como objetivo me aprofundar cada vez mais meus estudos com a intenção de conseguir meu espaço no mercado de trabalho.
+🚀 Bem-vindo ao meu perfil do GitHub! 🚀
 
-📍Informação Adicional📍
--  📚☀📚  Durante o decorrer do dia sigo procurando conhecimento, realizando cursos de aprendizado nas demais plataformas de ensino como : Udemy, Rocketseat, DIO, IFRS, e outras. Absorvendo conhecimento sobre tais linguagens como: Java, JavaScript, SQL, HTML, CSS. 
+👋 Olá! Sou Gabriel Mendes, um entusiasta da tecnologia apaixonado por transformar ideias em código e construir soluções inovadoras.
+
+💻 Aqui você encontrará projetos empolgantes e desafios técnicos que explorei, desde pequenos scripts até aplicativos completos.
+
+🔍 Explore meus repositórios para descobrir:
+
+- 💡 Projetos criativos e inovadores.
+- 🛠️ Ferramentas úteis e recursos para desenvolvedores.
+- 📚 Contribuições para projetos de código aberto.
+
+🌟 Sinta-se à vontade para explorar, contribuir e me conectar! Juntos, podemos impulsionar o futuro da tecnologia. 🌟
 
 📫 Como chegar até mim 📫
-- ☎ (81) 98250-6246☎ 
+- ☎ (81) 98186-1285☎ 
 - 📨 gabriel1902008@hotmail.com 📨
-- LinkedIn : https://www.linkedin.com/in/gabriel-mendes-roque-622396124/
+  <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
 - Web_Site : https://gabrielmendes16.github.io/Meu_WebSite/
 
 <!---
