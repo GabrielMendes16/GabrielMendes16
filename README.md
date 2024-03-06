@@ -14,8 +14,8 @@
 
 📫 Como chegar até mim 📫
 - ☎ (81) 98186-1285☎ 
-- 📨 gabriel1902008@hotmail.com 📨
-  <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
+- 📨 gabriel1902008@hotmail.com 📨<br>
+- <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
 - Web_Site : https://gabrielmendes16.github.io/Meu_WebSite/
 
 <!---
