@@ -14,7 +14,7 @@
 
 📫 Como chegar até mim 📫
 - ☎ (81) 98186-1285☎
-- 📨<a href="malito:gabriel1902008@hotmail.com">E-mail</a>📨<br>
+- <a href="malito:gabriel1902008@hotmail.com">E-mail</a><br>
 - <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
 
 <!---
