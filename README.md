@@ -13,8 +13,8 @@
 🌟 Sinta-se à vontade para explorar, contribuir e me conectar! Juntos, podemos impulsionar o futuro da tecnologia. 🌟
 
 📫 Como chegar até mim 📫
-- ☎ (81) 98186-1285☎ 
-- 📨 gabriel1902008@hotmail.com 📨<br>
+- ☎ (81) 98186-1285☎
+- 📨<a href="malito:gabriel1902008@hotmail.com">E-mail</a>📨<br>
 - <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
 
 <!---
