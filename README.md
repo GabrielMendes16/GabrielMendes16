@@ -1,16 +1,17 @@
-🚀 Bem-vindo ao meu perfil do GitHub! 🚀
+🎓 Bem-vindo ao meu perfil do GitHub! 🎓
 
-👋 Olá! Sou Gabriel Mendes, um entusiasta da tecnologia apaixonado por transformar ideias em código e construir soluções inovadoras.
+👋 Olá! Sou Gabriel Mendes, estudante de Ciência da Computação apaixonado por tecnologia e inovação. Com um ano de experiência na área de front-end, estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades.
 
 💻 Aqui você encontrará projetos empolgantes e desafios técnicos que explorei, desde pequenos scripts até aplicativos completos.
 
 🔍 Explore meus repositórios para descobrir:
 
 - 💡 Projetos criativos e inovadores.
+- 💡 Projetos relacionados ao front-end e design de interfaces.
+- 🛠️ Projetos e estudos sobre C#, Azure e PostgreSQL.
 - 🛠️ Ferramentas úteis e recursos para desenvolvedores.
-- 📚 Contribuições para projetos de código aberto.
 
-🌟 Sinta-se à vontade para explorar, contribuir e me conectar! Juntos, podemos impulsionar o futuro da tecnologia. 🌟
+🌟 Sinta-se à vontade para explorar, contribuir e me conectar, estou sempre aberto a feedback e sugestões! Juntos, podemos impulsionar o futuro da tecnologia. 🌟
 
 📫 Como chegar até mim 📫
 - ☎ (81) 98186-1285☎
