@@ -16,7 +16,6 @@
 - ☎ (81) 98186-1285☎ 
 - 📨 gabriel1902008@hotmail.com 📨<br>
 - <a href = "https://www.linkedin.com/in/gabriel-mendes-roque-622396124/"> LinkedIn</a>
-- Web_Site : https://gabrielmendes16.github.io/Meu_WebSite/
 
 <!---
 GabrielMendes16/GabrielMendes16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
