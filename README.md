@@ -1,6 +1,7 @@
 🎓 Bem-vindo ao meu perfil do GitHub! 🎓
 
-👋 Olá! Sou Gabriel Mendes, estudante de Ciência da Computação apaixonado por tecnologia e inovação. Com um ano de experiência na área de front-end, estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades.
+Estudante universitário de ciência da computação e programador de sistemas de informação, com mais de um ano de experiência prática em desenvolvimento web. Minha jornada profissional destaca-se pelo compromisso em oferecer soluções inovadoras e eficazes em projetos de construção e manutenção de websites.
+
 
 💻 Aqui você encontrará projetos empolgantes e desafios técnicos que explorei, desde pequenos scripts até aplicativos completos.
 
