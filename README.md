@@ -30,6 +30,11 @@ Atualmente sou Universitário de ciência da computação e programador de siste
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
+<h3>Habilidades Com CMS</h3>
+<p>
+ <img src="https://github.com/GabrielMendes16/imagens/blob/main/moodle.png" alt="moodle" width="150" height="50"/>
+ <img src="https://github.com/GabrielMendes16/imagens/blob/main/word.png" alt="moodle" width="150" height="50"/>
+</p>
 <img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielMendes16&show_icons=true&theme=merko"/>
 <img alt="top langs" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendes16&layout=compact"/>
 
